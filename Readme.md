@@ -18,13 +18,13 @@
   - Professional Profile Page
 
 - examples of features made
-  <img src="./markdown%20assets/User_reg.jpg" align="center" />
+  <img src="./markdown%20assets/User_reg.jpg" align="center"/>
   > User Registration Page with Basic validations
 
-   <img src="./markdown%20assets/User_apply_page.jpg" align="center" />
+  <img src="./markdown%20assets/User_apply_page.jpg" align="center"/>
   > Apply page for the selecting job
 
- <img src="./markdown%20assets/User_Profile.jpg" align="center" />
+  <img src="./markdown%20assets/User_Profile.jpg" align="center"/>
   > User profile page with editable information or fetched data from database
 
 
