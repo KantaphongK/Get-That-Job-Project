@@ -17,16 +17,17 @@
   - Application Apply Page
   - Professional Profile Page
 
-- examples of features made
-  <img src="./markdown%20assets/User_reg.jpg" align="center"/>
-  > User Registration Page with Basic validations
+![User Registration Page with Basic Validations](./markdown%20assets/User_reg.jpg)
+User Registration Page with Basic validations
+<br>
 
-  <img src="./markdown%20assets/User_apply_page.jpg" align="center"/>
-  > Apply page for the selecting job
+![Apply page for selecting a job](./markdown%20assets/User_apply_page.jpg)
+Apply page for selecting a job
+<br>
 
-  <img src="./markdown%20assets/User_Profile.jpg" align="center"/>
-  > User profile page with editable information or fetched data from database
-
+![User profile page with editable information or fetched data from the database](./markdown%20assets/User_Profile.jpg)
+User profile page with editable information or fetched data from the database
+<br>
 
 ## Contributors
 After working on this project, i would like to express my gratitude to the following co-contributors, without whom this project would not have been possible:
