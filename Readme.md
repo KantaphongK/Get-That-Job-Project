@@ -6,6 +6,16 @@
 ## Project Details
 >In this project, I am responsible for the following aspects:
 
+>Front End
+Application Apply Page
+Professional profile Page
+File Upload
+
+>Back End
+User Registration Page
+Application Apply Page
+Professional profile Page
+
 ## Contributors
 After working on this project, i would like to express my gratitude to the following co-contributors, without whom this project would not have been possible:
 
