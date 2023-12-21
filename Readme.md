@@ -1,4 +1,12 @@
- <img src="./markdown%20assets/2J3K.jpg" align="center" />
+if you want to run locally, please try on following step
+1.clone this repo
+2.run npm install
+3.create env files to both client and server root folders
+-- you may need to get env keys from me--
+4.npm run dev on client root folders
+5.npm start on server root folders
+
+<img src="./markdown%20assets/2J3K.jpg" align="center" />
 
 # Project Title: Get That Job
 > A MERN Stack Web Development Project with Supabase as the Database and File Storage Solution
