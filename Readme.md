@@ -1,10 +1,10 @@
-if you want to run locally, please try on following step
-1.clone this repo
-2.run npm install
-3.create env files to both client and server root folders
--- you may need to get env keys from me--
-4.npm run dev on client root folders
-5.npm start on server root folders
+if you want to run locally, please try on following step.<br>  
+1.clone this repo.<br>
+2.run npm install.<br>
+3.create env files to both client and server root folders.<br>
+-- you may need to get env keys from me--.<br>
+4.npm run dev on client root folders.<br>
+5.npm start on server root folders.<br>
 
 <img src="./markdown%20assets/2J3K.jpg" align="center" />
 
